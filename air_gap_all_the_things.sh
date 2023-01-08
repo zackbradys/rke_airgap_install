@@ -8,7 +8,7 @@ export RKE_VERSION=1.24.9
 export CERT_VERSION=v1.10.0
 export RANCHER_VERSION=v2.7.0
 export LONGHORN_VERSION=v1.3.2
-export NEU_VERSION=2.2.5 # this is the chart version for 5.0.5
+export NEU_VERSION=2.4.0 # this is the chart version for 5.1.0
 export DOMAIN=awesome.sauce
 
 ######  NO MOAR EDITS #######
